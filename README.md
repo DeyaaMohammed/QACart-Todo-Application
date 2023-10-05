@@ -28,7 +28,7 @@ To execute the test cases, follow the instructions provided in the test case fil
 *Ensure that the QACart Todo Application is accessible and configured for testing.*
 
 ## Test Results 
-  The results of test executions, including pass/fail status and any issues encountered, will be documented in the [QAcart Todo Application Checklist](https://github.com/DedoZz/QACart-Todo-Application/blob/main/QAcart%20Todo%20Application%20Checklist.xlsx) filen and you can find the Bug Report in the `"Bug Report"` tab.
+  The results of test executions, including pass/fail status and any issues encountered, will be documented in the [QAcart Todo Application Checklist](https://github.com/DedoZz/QACart-Todo-Application/blob/main/QAcart%20Todo%20Application%20Checklist.xlsx) file and you can find the Bug Report in the `"Bug Report"` tab.
 
 
   
