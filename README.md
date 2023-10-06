@@ -19,7 +19,7 @@ This repository contains a series of test cases aimed at verifying the proper fu
 The test cases have been organized according to the functionalities they cover. 
 Test Cases are documented in the [QAcart Todo Application Checklist](https://github.com/DedoZz/QACart-Todo-Application/blob/main/QAcart%20Todo%20Application%20Checklist.xlsx) sheet and you can find the test case design in the [Test Case Design](https://github.com/DedoZz/QACart-Todo-Application/blob/main/Test%20Case%20Design.docx) document.
 
-The test cases follow a template provided in a course, with the addition of an "Author" column to give credit to the test case creator. 
+The test cases follow a template provided in the course, I just added the "Author" column to give credit to the test case creator. 
 > You can find the online preview of the test case design document [here](https://docs.google.com/document/d/1_mXN3lygdN73kL3XptQRE2QWL6GAppOx/edit?usp=sharing&ouid=115513231737648588374&rtpof=true&sd=true), and you can find the online preview of the Checklist sheet [here](https://docs.google.com/spreadsheets/d/1LXrjNTzoXKeJmdRnF_D5CIyS2R5xNtDO/edit?usp=sharing&ouid=115513231737648588374&rtpof=true&sd=true).
 
 ## Test Execution 
