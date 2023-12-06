@@ -4,7 +4,8 @@ This repository contains test cases and test results for the QACart Todo Applica
 The tests are designed to ensure the functionality and reliability of the application. 
 
 ## Table of Contents  
-- [Introduction](#introduction) 
+- [Introduction](#introduction)
+- [Key Achievements](#key-achievements) 
 - [Test Cases](#test-cases) 
 - [Test Execution](#test-execution) 
 - [Test Results](#test-results) 
@@ -14,6 +15,15 @@ The tests are designed to ensure the functionality and reliability of the applic
 ## Introduction 
 The QACart Todo Application is a task management tool that allows users to create, edit, and manage their to-do lists. 
 This repository contains a series of test cases aimed at verifying the proper functioning of the application.
+
+## Key Achievements:
+- 📝 Designed comprehensive test cases based on project requirements, and design documentation.
+- 📋 Developed test scenarios to validate core functionalities.
+- ✍🏻 Wrote test cases to cover all aspects of the application.
+- 🔍 Performed functional testing to verify the correctness of the application, and identify defects and inconsistencies in the application's behavior.
+- 🖥️ Executed test cases in diverse environments, including different web browsers, devices, and operating systems to ensure cross-browser compatibility and usability across multiple platforms.
+- 📑 Generated detailed bug reports using the provided template including information such as steps to reproduce, expected and actual behavior, and severity.
+
  
 ## Test Cases 
 The test cases have been organized according to the functionalities they cover. 
